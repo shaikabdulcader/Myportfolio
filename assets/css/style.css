@@ -160,6 +160,18 @@ nav{
     height: 100vh;
     min-height: 700px;
 }
+.cv-down{
+    text-decoration: none;
+    color: var(--body-color);
+}
+.cv-download{
+    text-decoration: none;
+    color: var(--text-color-second);
+    font-weight: 600;
+}
+.cv-download:hover{
+    color: var(--body-color);
+}
 
 /* ----- FEATURED TEXT BOX ----- */
 .featured-text{
